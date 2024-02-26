@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="Netology" uuid="0a2d6a2f-ee6c-47bc-bf98-d493e175ca1e" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+  <name>Net task</name>
+  <parameters />
+  <cleanup />
+</project>
+
